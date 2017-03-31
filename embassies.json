@@ -1,0 +1,1606 @@
+{
+	"embasies": [
+		{
+			"country": "Algeria",
+			"name": "Embassy of Algeria",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "1398 Honorable Justice, Mamman Nasir Street Asokoro, Abuja",
+					"phone": "+234 9 3142840, 3142841",
+					"fax": "+234 9 3142842",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Angola",
+			"name": "Embassy of The People's Republic of Angola",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 321, Diplomatic Drive, Central Business Area, Abuja FCT, Nigeria ",
+					"phone": "+234 9 4614731",
+					"fax": "+234 9 4611636",
+					"email": "sconsangobuja@gmail.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Argentina",
+			"name": "Embassy of The Argentine Republic",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 1611 Yusuf Maitama Sule Street, Asokoro, Abuja ",
+					"phone": "+234 1 9 3148680-81, 3148684",
+					"fax": "+234 9 3148683",
+					"email": "enige@mrecic.gov.ar",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Australia",
+			"name": "Australian High Commission",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Oakland Center, 48 Aguiyi Ironsi Street, Maitama District, Abuja",
+					"phone": "+234 9 4612780",
+					"fax": " +234 9 4612782",
+					"email": "",
+					"website": "http://www.nigeria.highcommission.gov.au/"
+				},
+				{
+					"location": "Lagos",
+					"adress": "76 Norman Williams Street, SW Ikoyi, Lagos",
+					"phone": "+234 1 2701919 ,8794142 ",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Austria",
+			"name": "Embassy of Austria",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 9, Usuma Street, Maitama, Abuja ",
+					"phone": "+234 9 413 0772, 413 0773",
+					"fax": "+234 9 461 2715",
+					"email": "",
+					"website": "http://www.nigeria.highcommission.gov.au/"
+				},
+				{
+					"location": "Kaduna",
+					"address": "3a Kinkino Road, Kaduna",
+					"phone": "+234 62 247 705",
+					"fax": "+234 62 243 921",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Argentina",
+			"name": "Barbadian Consulate",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": " Penthouse, Yinka Folawiyo Plaza, 38 Warehouse Road, Apapa, Lagos",
+					"phone": "+234 1 4700252",
+					"fax": "+234 1 5870068",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Belgium",
+			"name": "Embassy of Belgium",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": " 9 Usuma Street, Maitama District, Abuja",
+					"phone": "+234 9 4131859-62",
+					"fax": "+234 9 4132015, 4132012",
+					"email": "abuja@diplobel.fed.be ",
+					"website": "http://www.diplomatie.be/abuja/"
+				},
+				{
+					"location": "Lagos",
+					"address": "c/o Dredging Intern. Serv. Nigeria Ltd 35A Alfred Rewane Road Ikoyi – Lagosama District, Abuja",
+					"phone": "+234 (0) 7027704421",
+					"fax": "+234 1 463 0897",
+					"email": "Achimu.chris@deme.be",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Benin Republic",
+			"name": "Embassy of The Republic of Benin",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 2858A, Danube Street, Off IBB Way, P.O Box 50457, Maitama",
+					"phone": "+234 9 4138424",
+					"fax": "+234 1 4138425",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "4, Abudu Smith Street, Victoria Island, P.O Box 5705, Lagos",
+					"phone": "+234 1 2614385",
+					"fax": "+234 1 2614385",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Botswana",
+			"name": "High Commission of Botswana",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 1241, Oguta Lake Street, Maitama Extension, Abuja ",
+					"phone": "+234 9 7822818/782, 5239235",
+					"fax": "+234 9 5239234",
+					"email": "botnig@mail.org",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Brazil",
+			"name": "Embassy of The Federative Republic of Brazi",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 324 Diplomatic Drive, Zone Central Area District, Abuja ",
+					"phone": "+234 9 4618685, 08037850132",
+					"fax": "+234 9 4618687",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Britain ",
+			"name": "British High Commission",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Dangote House, Aguyi Ironsi Street, Maitama District, Abuja",
+					"phone": "+234 1 2619531, 2619537, 2619541",
+					"fax": "+234 1 2614021, 2625940",
+					"email": "information.abuja@fco.gov.uk ",
+					"website": " http://ukinnigeria.fco.gov.uk/en"
+				},
+				{
+					"location": "Lagos",
+					"address": "11 Walter Carrington Crescent, Victoria Island, Lagos",
+					"phone": "+234 1 2619531",
+					"fax": "+234 1 2614021",
+					"email": "consular.lagos@fco.gov.uk",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Bulgaria",
+			"name": "Embassy of The Republic of Bulgaria",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "10, Euphrates street, off Aminu Kano Crescent, Maitama, Abuja ",
+					"phone": "+234 9 4130034",
+					"fax": "+234 9 4132741",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Burkina Faso ",
+			"name": "Embassy of Burkina Faso",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "4, Freetown Street, Off Adetokunbo Ademola Crescent, Wuse 11, Abuja",
+					"phone": " +234 9 4130491",
+					"fax": "+234 9 4130492",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "170, Moshood Olugbani Street, Off Sinari Daranijo Street, Victoria Island, Lagos",
+					"phone": " +234 1 2619531",
+					"fax": "+234 1 2614021",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Cameroon",
+			"name": "High Commission of the Republic of Cameroon",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "4, Freetown Street, Off Adetokunbo Ademola Crescent, Wuse 11, Abuja ",
+					"phone": "+234 1 2612226, 2614386",
+					"fax": "+234 1 7747510 ",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Calabar",
+					"address": "21, Ndidem Usang Iso Road, Calabar, Cross River State ",
+					"phone": "+234 87 233206",
+					"fax": "+234 87 233206",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Canada ",
+			"name": "Canadian High Commission",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "15, Bobo Street, Maitama, Abuja",
+					"phone": "+234 9 4139910",
+					"fax": "+234 9 4139911 ",
+					"email": "abuja@international.gc.ca ",
+					"website": "http://www.canadainternational.gc.ca/nigeria/"
+				},
+				{
+					"location": "Lagos",
+					"address": "4, Anifowoshe Street, Victoria Island, Lagos",
+					"phone": "+234 1 2715650, 2622512/15",
+					"fax": "+234 1 2622517, 2715651 ",
+					"email": " lagos@international.gc.ca",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Central African Republic ",
+			"name": "Embassy of the Central African Republic ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "Plot 137 Ajao Estate, Oshodi, Lagos ",
+					"phone": "+234 1 2682816",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Chad ",
+			"name": "Embassy of the Republic of Chad ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "10 (Plot 152) Mississippi Street, Maitama Abuja",
+					"phone": " +234 9 4130751",
+					"fax": "+234 9 4130752",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "2, Goriola Street, Victoria Island, PMB 70662, Lagos",
+					"phone": " +234 1 2612590",
+					"fax": "+234 1 2618314",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "China ",
+			"name": "Embassy of the People’s Republic of China",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 302-303 A0 Central Area Abuja",
+					"phone": "+234 9 4618662, 4618664",
+					"fax": "+234 9 4618660",
+					"email": " chinaembng@mfa.gov.cn ",
+					"website": "http://ng.chineseembassy.org/eng "
+				},
+				{
+					"location": "Lagos",
+					"address": "Plot 161A, Idejo Street, Victoria Island, P.O. Box 70510, Lagos",
+					"phone": "+234 1 2715350/52, 2713535, 2612400, 2612165",
+					"fax": "+234 1 2715583 ",
+					"email": " Consulatelagos@mfa.gov.cn ",
+					"website": "http://lagos.china-consulate.org/eng/ "
+				}
+			]
+		},
+		{
+			"country": "Colombia ",
+			"name": "Embassy of the Republic of Colombia ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "43, Raymond Njoku Street, SW Ikoy, Lagos ",
+					"phone": "+234 1 2615342",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Congo ",
+			"name": "Embassy of the Democratic Republic of Congo ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 940, Azores Street, Off Aminu Kano Crescent, Wuse II Abuja",
+					"phone": "+234 9 4131105",
+					"fax": "+234 9 4132311 ",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": " 10, Idowu Taylor Street, Victoria Island, P.O. Box 1216, Lagos",
+					"phone": "+234 1 2614834, 2614799",
+					"fax": " ",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Denmark",
+			"name": "Royal Danish Consulate ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": " 121 Louis Solomon Close, P.O.Box 72554, Victoria Island, Lagos",
+					"phone": "+234 1 262 6430",
+					"fax": "+234 1 262 6428",
+					"email": "ngaconsuldk@maersk.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Egypt ",
+			"name": "Embassy of the Arab Republic of Egypt ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 3319, Barada Close, Off Amazon Street, Maitama, Abuja",
+					"phone": "+234 9 4136091-2;",
+					"fax": "+234 9 4132602, 4132802 ",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "182B, Kofo Abayomi Street, Victoria Island, P.O. Box 538, Lagos",
+					"phone": "+234 1 2612922, 2618029",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Equitorial Guinea",
+			"name": "Embassy of The Republic of Equitorial Guinea",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "7, Murtala Muhammed Drive, Ikoyi, P.O. Box 4162, Lagos",
+					"phone": "+234 1 2683717",
+					"fax": "+234 1 2618194",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Eritrea ",
+			"name": "Embassy of the State of Eritrea ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 3354, Osun Crescent, Cadastrala Zone A-6, Maitama, Abuja",
+					"phone": "+234 9 4136087",
+					"fax": "+234 9 4136085",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Ethiopia",
+			"name": "Embassy of the Republic of Ethiopia ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 332 Cadastral Zone AO, Mission Road, Central District, Garki, Abuja",
+					"phone": "+234 9 4618641-3",
+					"fax": "+234 9 4618640 ",
+					"email": "etembabuja@yahoo.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "European Commission ",
+			"name": "Delegation of the European Commission to Nigeria",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "21st Crescent, Off Constitution Avenue, Central Business District, Box 280, Garki, Abuja. ",
+					"phone": "+234 9 524400-7, 4617800",
+					"fax": "+234 9 5244021, 4617836",
+					"email": "Delegation-Nigeria@ec.europa.eu ",
+					"website": ":http://www.delnga.ec.europa.eu"
+				}
+			]
+		},
+		{
+			"country": "Finland",
+			"name": "Embassy of The Republic of Finland",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "9 Iro Dan Musa Street, Asokoro, Asokoro, Abuja ",
+					"phone": " +234 9 9 3147256-7, 0803 7851150",
+					"fax": "+234 9 3147252 ",
+					"email": "sanomat.aba@formin.fi ",
+					"website": "http://www.finlandnigeria.org"
+				}
+			]
+		},
+		{
+			"country": "France ",
+			"name": "Embassy of France",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "37 Udi Hills Street Off Aso Drive, Maitama, Abuja",
+					"phone": "+234 9 5231055, 5235510, 5235506",
+					"fax": "+234 9 5235482, 5235284 ",
+					"email": "sec-amb.abuja-amba@diplomatie.gouv.fr ",
+					"website": "http://www.ambafrance-ng.org"
+				},
+				{
+					"location": "Lagos",
+					"address": "1, Oyinkan Abayomi Drive, Ikoyi, Lagos",
+					"phone": "+234 1 2693427-9",
+					"fax": "+234 9 2693430 ",
+					"email": "consulfrance.lagos@diplomatie.gouv.fr ",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Gabon ",
+			"name": "Embassy of The Republic of Gabon ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "8, Norman Williams Street, Ikoyi, P.O. Box 5989, Lagos ",
+					"phone": "+234 1 2684673",
+					"fax": "+234 1 2690692",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Gambia ",
+			"name": "High Commission of The Republic of Gambia ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": " Plot 25, Ontario Crescent, Off Mississippi Street, Maitama Abuja",
+					"phone": "+234 9 5238545-6",
+					"fax": "+234 9 5238548",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": " 162, Awolowo Road, Ikoyi, P.O. Box 8073, Lagos",
+					"phone": "+234 1 2682192",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Germany",
+			"name": "Embassy of The Federal Republic of Germany",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "9 Lake Maracaibo Close, off Amazon Street Maitama, Abuja",
+					"phone": "+234 9 4130962, 4130964-5, 7805181",
+					"fax": "+234 9 4130949 ",
+					"email": "",
+					"website": "http://www.abuja.diplo.de"
+				},
+				{
+					"location": "Lagos",
+					"address": "15, Walter Carrington Crescent, Victoria Island, Lagos",
+					"phone": "+234 1 2809966",
+					"fax": "+234 1 2809969, 2809968 ",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Ghana ",
+			"name": "Ghana High Commission ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 301, Olusegun Obasanjo Street, Area 10, PO Box 2025, Garki, Abuja",
+					"phone": " +234 9 2345184-7, 2345193",
+					"fax": "+234 9 2345192",
+					"email": "net06ab@hyperia.com ",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "21/23, King George V Road, Onikan, P.O. Box 889, Lagos",
+					"phone": "+234 1 2630015, 2630934",
+					"fax": "+234 1 2630338 ",
+					"email": "ghacom03@cyberspace.net.ng ",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Greece ",
+			"name": "Embassy of Greece ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "6, Seguela Street, Off IBB Way, Wuse II, Abuja",
+					"phone": "+234 9 4612775-6, 7822762, 4139433-4",
+					"fax": "+234 9 4612778, 4139435",
+					"email": "gremb.abj@mfa.gr ",
+					"website": "http://www.grembnigeria.mfa.gr"
+				},
+				{
+					"location": "Lagos",
+					"address": "35, Agodogba Avenue, Park View Estate, Ikoyi, P.O Box 1199, Lagos",
+					"phone": "+234 1 2696064",
+					"fax": "+234 1 2696063",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Guinea ",
+			"name": "Embassy of The Republic of Guinea",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "23A Kofo Abayomi Street, Victoria Island, P.O Box 2826, Marina, Lagos",
+					"phone": "+234 1 2616961",
+					"fax": "+234 1 2614852",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Holy See",
+			"name": "Embassy of The Holy See – Vatican ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 3133, Pope John Paul II Crescent, Maitama Sule, Abuja",
+					"phone": "+234 9 4138381-4",
+					"fax": " +234 9 4136653 ",
+					"email": "nuntiusabj@hotmail.com",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "9, Anifowose Street, Victoria Island, P.O Box 2470, Lagos",
+					"phone": "+234 1 2613744, 2614441",
+					"fax": " +234 1 2618635  ",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Hungary",
+			"name": "Embassy of The Republic of Hungary ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "61, Jose Marti Crescent, Asokoro, Abuja",
+					"phone": "+234 (0) 7064786188, 08066895834, 3141180, 3141181, 3141183",
+					"fax": "+234 9 3141177 ",
+					"email": "mission.abv@kum.hu ",
+					"website": "http://www.mfa.gov.hu/emb/abuja"
+				}
+			]
+		},
+		{
+			"country": "India ",
+			"name": "Indian High Commission",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "15, Rio Negro Close, Off Yedseram Street, Maitama, Abuja",
+					"phone": "+234 9 4602800-4",
+					"fax": "+234 9 4602805 ",
+					"email": "cons.abuja@mea.gov.in ",
+					"website": "http://www.indianhcabuja.com"
+				},
+				{
+					"location": "Lagos",
+					"address": "8-A, Walter Carrington Crescent, Victoria Island, Lagos",
+					"phone": "+234 1 4480876, 4480877",
+					"fax": "+234 1 4480882",
+					"email": "cons.lagos@mea.gov.in",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Indonesia",
+			"name": "Embassy of The Republic of Indonesia",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "4, Salt Lake Street, Off Gana Street, Maitama, Abuja",
+					"phone": "+234 9 4613252, 4138625",
+					"fax": "+234 9 4613253, 4138626 ",
+					"email": "kbriabuja@yahoo.co.uk",
+					"website": "http://www.indonesianig.com"
+				},
+				{
+					"location": "Lagos",
+					"address": "5B, Anifowoshe Street, Victoria Island, P.O Box 3473, Lagos",
+					"phone": "+234 1 2614601",
+					"fax": "+234 1 2613301 ",
+					"email": "kbrilagos@yahoo.co.id ",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Iran ",
+			"name": "Embassy of The Islamic Republic of Iran",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "2, Udi Street, Off Aso Drive, Maitama, Abuja",
+					"phone": "+234 9 5238048-9",
+					"fax": "+234 9 5237785",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "1A-B, Alexander Avenue, Ikoyi, P.O Box 964, Lagos",
+					"phone": "+234 1 2693821, 2694055, 2694064",
+					"fax": "+234 1 2693803",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Iraq ",
+			"name": "Embassy of The Republic of Iraq ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "23 (Plot 710), Kainji Crescent, Off Lake Chad Crescent, Zone A5, Maitama, Abuja",
+					"phone": "+234 9 4139256",
+					"fax": "+234 9 4139359",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Ireland ",
+			"name": "Embassy of The Republic of Ireland",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "11 Negro Crescent, Maitama District, Abuja ",
+					"phone": "+234 9 4620611, 4620612",
+					"fax": "+234 9 4620613 ",
+					"email": "abujaembassy@dfa.ie ",
+					"website": "http://www.embassyofireland.org.ng"
+				}
+			]
+		},
+		{
+			"country": "Israel ",
+			"name": "Embassy of Israel ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 12, Mary Slessor Street, Off Udo Udoma Crescent, Asokoro, Abuja ",
+					"phone": "+234 9 3143170-4, 6739552, 6739551",
+					"fax": "+234 9 3143177 ",
+					"email": "info@abuja.mfa.gov.il ",
+					"website": "http://abuja.mfa.gov.il"
+				}
+			]
+		},
+		{
+			"country": "Italy ",
+			"name": "Embassy of Italy ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "21st Crescent, Off Constitution Avenue, Central Business District, Abuja",
+					"phone": "+234 9 4614722",
+					"fax": "+234 9 4614709 ",
+					"email": "ambasciata.abuja@esteri.it ",
+					"website": "http://www.ambabuja.esteri.it "
+				},
+				{
+					"location": "Lagos",
+					"address": "12, Walter Carrington Crescent, Victoria Island, P.O. Box 2161, Lagos",
+					"phone": "+234 1 4627414-5",
+					"fax": "+234 1 4627420 – 06/23328551 ",
+					"email": "visti.lagos@esteri.it",
+					"website": "http://www.conslagos.esteri.it"
+				}
+			]
+		},
+		{
+			"country": "Jamaica",
+			"name": "High Commission of Jamaica ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 247 Muhammadu Buhari Way, Central Area District, Abuja",
+					"phone": "+234 9 2345107, 7806809",
+					"fax": "+234 9 2345107",
+					"email": "jamaicanembassy@yahoo.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Japan ",
+			"name": "Embassy of Japan",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 585, Bobo Street, Off Gana Street, Maitama, Abuja",
+					"phone": "+234 9 4138898, 4139258, 4139718-9",
+					"fax": "+234 9 4613289-90 ",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": " Plot 24/25, Apese Street, Off Ozumba Mbadiwe, Victoria lsland, Lagos",
+					"phone": "+234 1 2613797, 2614929, 2615984",
+					"fax": "+234 1 261403 ",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Kenya",
+			"name": "High Commission of Kenya ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "21 Yedseram Street, Maitama, Abuja",
+					"phone": "+234 9 4139155",
+					"fax": "+234 9 4139157",
+					"email": "kenyahi@alpha.linkserve.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Korea (North Korea) ",
+			"name": "Embassy of the Democratic People’s Republic of Korea ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "Plot 20C, Akin Olugbade Street, Victoria Island Annex, P.O. Box 6436, Maroko, Lagos ",
+					"phone": "+234 1 2610108",
+					"fax": "+234 1 2612342",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Korea Republic (South Korea) ",
+			"name": "Embassy of the Republic of Korea ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "9 Ovia Crescent Off Pope John Paul II Street Maitama, POBox 6870, Abuja",
+					"phone": "+234 9 461270",
+					"fax": "+234 9 4612702 ",
+					"email": "emb-ng@mofat.go.kr ",
+					"website": "http://nga-abuja.mofat.go.kr"
+				}
+			]
+		},
+		{
+			"country": "Lebanon ",
+			"name": "Embassy of Lebanon ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "Plot 18, Walter Carrington Crescent, Victoria Island, P.O. Box 651, Lagos ",
+					"phone": "+234 1 2614511, 2623231, 2610129",
+					"fax": "+234 2614511",
+					"email": "emblebanon@hyperia.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Liberia ",
+			"name": "Embassy of the Republic of Liberia ",
+			"contact": [
+				{
+					"location": "Abuja ",
+					"address": "+234 9",
+					"phone": "",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Libya ",
+			"name": "Embassy of The Great Socialist People’s Libyan, Arab Jamahiriya ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 1591, Mike Okoye Street, Off George Sowemimo Street, Asokoro Extension, Abuja",
+					"phone": "+234 9 3148356-7",
+					"fax": "+234 9 3148354",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Malaysia ",
+			"name": "High Commission of Malaysia ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "2 Pechora Close, off Panama Street, Maitama, Abuja ",
+					"phone": "+234 9 4133918-9",
+					"fax": "+234 9 4133922 ",
+					"email": "malabuja@kln.gov.my ",
+					"website": "http://www.kln.gov.my/perwakilan/abuja"
+				}
+			]
+		},
+		{
+			"country": "Mali ",
+			"name": "Embassy of Mali ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 465 Nouakchott Street, Wuse Zone, Abuja",
+					"phone": "+234 9 5230494",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Malta ",
+			"name": "Honorary Consulate of Malta ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": " 108 Adeniyi-Jones Avenue, PO Box 2688, Ikeja, Lagos",
+					"phone": "+234 1 4706009, 8793880",
+					"fax": "+234 1 4971014",
+					"email": "maltaconsul.lagos@gov.mt",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Mauritania ",
+			"name": "Embassy of The Islamic Republic of Mauritania ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "Plot 31, Gaffar Animashaun Street, Victoria Island Annex, P.O. Box 53569, Falomo, Ikoyi, Lagos ",
+					"phone": "+234 1 2618966",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Morocco ",
+			"name": "Embassy of The Kingdom of Morocco",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 1306, Udo Udoma Crescent, Asokoro, Abuja",
+					"phone": "+234 9 3141961-2",
+					"fax": "+234 9 3141959",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Namibia ",
+			"name": "High Commission of The Republic of Namibia ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 1738 T.Y. Danyuma Street, Cadasdral Zone A4, Asokoro District, Abuja",
+					"phone": "+234 9 3142740-2, 3142744",
+					"fax": "+234 9 3142743 ",
+					"email": "namibiahighcomabuja@yahoo.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Netherlands ",
+			"name": "Royal Netherlands Embassy ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": ": 21st Crescent, off Constitution Avenue, Central Business District, Abuja",
+					"phone": "+234 9 4611200",
+					"fax": "+234 9 4611240",
+					"email": "abj@minbuza.nl ",
+					"website": "http://www.mfa.nl/abj-en/"
+				}
+			]
+		},
+		{
+			"country": "Niger ",
+			"name": "Embassy of Niger Republic ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "7, Shasha Street, Maitama, Abuja",
+					"phone": "+234 9 5236275",
+					"fax": "+234 9 5236206",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "15, Adeola Odeku Street, Victoria Island, Lagos",
+					"phone": "+234 1 2612300",
+					"fax": "+234 1 2612363",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Norway ",
+			"name": "Royal Norwegian Embassy ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "54, T.Y. Danjuma Street, Asokoro, Abuja",
+					"phone": "+234 9 8746989, 3149127-30",
+					"fax": "+234 9 3149309",
+					"email": "emb.abuja@mfa.no ",
+					"website": "http://www.emb-norway.com.ng"
+				}
+			]
+		},
+		{
+			"country": "Pakistan ",
+			"name": "High Commission of the Islamic Republic of Pakistan ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "1805 Samora Michel Street, Off Yakubu Gowon Crescent, Asokoro, Abuja",
+					"phone": "+234 9 3141650",
+					"fax": "234 9 3141652 ",
+					"email": "pahicabuja@yahoo.com ",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "4, Molade Okoya-Thomas Street, Victoria Island Annex, Lagos",
+					"phone": "+234 1 7742380, 2614710, 2613909",
+					"fax": "+234 1 2614822, 2614931  ",
+					"email": "pahiclagos@nova.net.ng",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Palestine ",
+			"name": "Embassy of Palestine",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 445, Lobito Crescent, Off Adetokunbo Ademola Crescent, Zone A8, Wuse II, Abuja",
+					"phone": "+234 9 4135311",
+					"fax": "+234 9 4135308",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Philippines ",
+			"name": "Embassy of the Republic of Philippines ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "2 Kainji Street, corner Lake Chad, Maitama District, FCT Abuja",
+					"phone": "+234 9 4137981-2, 4137830",
+					"fax": "+234 9 4137650 ",
+					"email": "pe.abuja@dfa.gov.ph",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Poland ",
+			"name": "Embassy of the Republic of Poland ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "16, Ona Crescent, Maitama, Abuja",
+					"phone": "+234 9 4138280, 4138283",
+					"fax": "+234 9 4138281",
+					"email": "poembabu@linkserve.com ",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "10, Idejo Street, Victoria Island, PO Box 410, Lagos",
+					"phone": " +234 1 2614684",
+					"fax": "+234 1 2614685",
+					"email": "poemb@mwebafrica.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Portugal ",
+			"name": "Embassy of Portugal ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 63, Europe House, Usuma Street, Maitama, Abuja",
+					"phone": "+234 9 4137211-2, 4137212, 5233787, 5233800",
+					"fax": "+234 9 4137214 ",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "Plot 1677, Olukunle Bakare Close, Off Sanusi Fafunwa Street, Victoria Island, Lagos",
+					"phone": "+234 1 2619037",
+					"fax": "+234 1 2616071",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Romania ",
+			"name": "Embassy of Romania ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 498 (76), Nelson Mandela Street, Zone A4, Asokoro, Abuja",
+					"phone": "+234 9 3142304, 3142305",
+					"fax": "+234 9 3142306",
+					"email": "secretary@romnig.com ",
+					"website": "http://www.romnig.com"
+				}
+			]
+		},
+		{
+			"country": "Russian Federation",
+			"name": "Embassy of the Russian Federation",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 715, Zone AG, 8 Panama Crescent, Maitama, Abuja",
+					"phone": "+234 9 4135374, 4134951 ",
+					"fax": "",
+					"email": "",
+					"website": "http://www.russianembassy.net/…/RepresentativeOfficeOfRussiaInAbuja "
+				},
+				{
+					"location": "Lagos",
+					"address": "5, Walter Carrington Crescent, Victoria Island, Lagos",
+					"phone": "+234 1 2612267, 2615022, 2613359, 4619994",
+					"fax": "234 1 4619995 ",
+					"email": "rusemlagos@vgccl.net ",
+					"website": "http://www.russianembassy.net/…/EmbassyOfRussiaInLagos"
+				}
+			]
+		},
+		{
+			"country": "Sahrawi Arab Republic ",
+			"name": "Embassy of the Sahrawi Arab Democratic Republic ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "",
+					"phone": "+234 9 4136980",
+					"fax": "+234 9 4136980 ",
+					"email": "embsahrawi@hotmail.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Saudi Arabia ",
+			"name": "The Royal Embassy of Saudi Arabia",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 347H, Adetokunbo Ademola Crescent, Wuse II, Abuja",
+					"phone": "+234 9 4131880",
+					"fax": "+234 9 4134906",
+					"email": "",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "182, Awolowo Road, Ikoyi, P.O Box 2836 Lagos",
+					"phone": "+234 1 2690306, 2690349",
+					"fax": "+234 1 2690101",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Senegal ",
+			"name": "Embassy of Senegal",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "14, Kofo Abayomi Street, Victoria Island, P.O Box 2197, Lagos",
+					"phone": " +234 1 2611722",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Serbia ",
+			"name": "Embassy of Serbia ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "7, Maitama Sule Street, South West Ikoyi, Lagos",
+					"phone": "+234 1 2690912, 2694202",
+					"fax": "+234 1 2691889 ",
+					"email": "embscgnig@nova.net.ng",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Sierra Leone ",
+			"name": "Sierra Leone High Commission ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 308 Mission Road, Diplomatic Zone, Abuja",
+					"phone": "+234 9 2346179, 4133480, 4133170",
+					"fax": "+234 9 4133480 ",
+					"email": "slhcnig@yahoo.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Singapore ",
+			"name": "Singaporean Consulate",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "Lagoon View Plaza, Plot A4, Ozumba Mbadiwe Street, Victoria Island, Lagos",
+					"phone": "+234 1 4619088",
+					"fax": "+234 1 4610828 ",
+					"email": "hcg.sin.ng@gmail.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Slovak Republic",
+			"name": "Embassy of the Slovak Republic ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 187, Deeper Life Street, Asokoro, Abuja",
+					"phone": "+234 9 3143731, 3143732",
+					"fax": "+234 9 3143730",
+					"email": "zusrnigeria@yahoo.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Somalia ",
+			"name": "Embassy of the Somali Republic",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "114, Norman Williams Street, SW Ikoyi, Lagos",
+					"phone": "+234 1 2611283, 2616890",
+					"fax": "",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "South Africa ",
+			"name": "High Commission of South Africa ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "71 Usuma Street, Maitama, Abuja",
+					"phone": "+234 9 4624200, 4133776, 7822850, 7822852",
+					"fax": "+234 9 4133829, 4135511",
+					"email": "sahcabuja@yahoo.co.uk ",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "24 Molade Okoya Thomas Street, Victoria Island, Lagos",
+					"phone": "+234 1 4612067, 4612981, 4612050, 461205",
+					"fax": "+234 1 4612064, 4612051, 4612052",
+					"email": "safrica@nigol.net.ng ",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Spain",
+			"name": "Embassy of Spain",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": " Plot 611, Bobo Close, Off Ghana Street, Maitama, Abuja ",
+					"phone": "+234 9 4137091, 4137093",
+					"fax": "+234 9 4137095",
+					"email": "embespng@mail.mae.es ",
+					"website": ""
+				},
+				{
+					"location": "Lagos",
+					"address": "21C, Kofo Abayomi Street, Victoria Island, P.O. Box 2738, Lagos",
+					"phone": "+234 1 2615215, 2614918, 2616083",
+					"fax": "+234 1 261822",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Sudan ",
+			"name": "Embassy of Sudan ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "PLOT 337, ZONE A0 MISSION ROAD, CENTRAL AREA DISTRICT ABUJA",
+					"phone": "+234 9 461483",
+					"fax": "+23494613830 ",
+					"email": "sudaniabj@hotmail.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Sweden ",
+			"name": "Embassy of Sweden ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "41 T. Y. Danjuma Street, Asokoro District, Abuja",
+					"phone": "+234 9 8746913, 8746915, 8746916, 8725714",
+					"fax": "",
+					"email": "ambassaden.abuja@foreign.ministry.se ",
+					"website": "http://www.swedenabroad.com/abuja"
+				},
+				{
+					"location": "Lagos",
+					"address": "Plot 17, Walter Carrington Crescent, Victoria Island, Lagos",
+					"phone": "+234 1 4616000, 0803 4035106, 0804 4185075",
+					"fax": "+234 1 4616020 ",
+					"email": "leif.xx.edwall@ericsson.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Switzerland ",
+			"name": "Embassy of Switzerland ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "157, Adetokumbo Ademola Crescent, Wuse II, Abuja",
+					"phone": "+234 9 4610540-1, 4610544",
+					"fax": " +234 9 4610548 ",
+					"email": "abu.vertretung@eda.admin.ch ",
+					"website": "http://www.eda.admin.ch/abuja"
+				}
+			]
+		},
+		{
+			"country": "Syria ",
+			"name": "Embassy of the Syria Arab Republic ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 2420 Amazon Street, Minister’s Hill, Zone A6, Maitama, Abuja",
+					"phone": "+234 9 5238337, 4138334-5",
+					"fax": "+234 9 4138337",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Taiwan ",
+			"name": "Trade Mission of Taiwan ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 3175, Katsina, Ala Crescent, Maitama, Abuja",
+					"phone": "+234 9 4138321",
+					"fax": "+234 9 4138326",
+					"email": "roctm@alpha.linkserve.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Tanzania ",
+			"name": "High Commission of The United Republic of Tanzania ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": " 15, Yedseram Street, Maitama, PMB 5125 Wuse, Abuja",
+					"phone": "+234 9 4132312-3",
+					"fax": "+234 9 413231",
+					"email": "tanabuja@lycos.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Thailand ",
+			"name": "Royal Thai Embassy ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "24 Tennesse Cresent, Off Panama Street, Maitama, Abuja",
+					"phone": "+234 9 780 5400",
+					"fax": "+234 9 413 5193 ",
+					"email": "thaiabj@mfa.go.th",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Togo ",
+			"name": "Embassy of The Republic of Togo ",
+			"contact": [
+				{
+					"location": "Lagos",
+					"address": "Plot 976, Ojo Olobun Close, Victoria Island, P.O Box 1435, Lagos",
+					"phone": "+234 1 2617478, 2617448-9",
+					"fax": "+234 1 2617478",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Trinidad and Tobago ",
+			"name": "High Commission for The Republic of Trinidad and Tobago ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "7 Casablanca Street, (Off Nairobi/Aminu Kano Crescent), Wuse II, Abuja ",
+					"phone": "+234 9 8702438, 4611118, 8702438, 08039607774",
+					"fax": "+234 9 4611117 ",
+					"email": "info@ttmissionsnigeria.com ",
+					"website": "http://www.ttmissionsnigeria.com"
+				}
+			]
+		},
+		{
+			"country": "Tunisia",
+			"name": "Embassy of the Republic of Tunisia",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "9, Usuma Street, off Gana Street, Maitama, Abuja ",
+					"phone": "+234 9 4132966-7",
+					"fax": "+234 9 4132668",
+					"email": "",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Turkey ",
+			"name": "Embassy of The Republic of Turkey ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": ", Amazon Street (Minister’s Hill), Maitama A6, Abuja",
+					"phone": "+234 9 4139787",
+					"fax": "+234 9 4139457 ",
+					"email": "contact@turkembabuja.com ",
+					"website": "http://turkembabuja.com"
+				}
+			]
+		},
+		{
+			"country": "Uganda ",
+			"name": "Uganda High Commission ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 28 Ontario Crescent, Off Mississippi Street, Ministers’ Hill Maitama, Abuja",
+					"phone": "234 9 4138069",
+					"fax": "+234 9 4138070",
+					"email": "ugandabuja@surichtech.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Ukraine ",
+			"name": "Embassy of Ukraine ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 15, Moundou Street, Wuse II, Abuja ",
+					"phone": "+234 9 5240087-8, 5239577, 5240846, 5239578",
+					"fax": "+234 9 5239578 ",
+					"email": "emb_ua@microaccess.com ",
+					"website": ":http://www.mfa.gov.ua/nigeria/en/"
+				}
+			]
+		},
+		{
+			"country": "Uruguay ",
+			"name": "Consulate of Uruguay ",
+			"contact": [
+				{
+					"location": "Lagos ",
+					"address": "",
+					"phone": "+234 1 2617063, 2614107",
+					"fax": "+234 1 2619477 ",
+					"email": "conurunig@yahoo.com",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "United States of America ",
+			"name": "Embassy of the United States of America ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 1075 Diplomatic Drive, Central District Area, Abuja ",
+					"phone": "+234 9 4614000",
+					"fax": "+234 9 4614036",
+					"email": "Consularabuja@state.gov ",
+					"website": "http://www.nigeria.usembassy.gov"
+				},
+				{
+					"location": "Lagos",
+					"address": "2, Walter Carrington Crescent, Victoria Island, Lagos",
+					"phone": "+234 1 2634865/4868/3713/3395/2504/5753, 07031502444/867",
+					"fax": "+234 1 2635397 ",
+					"email": "uslagos@state.gov",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Venezuela ",
+			"name": "Embassy of The Republic of Venezuela",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 1631 Justice Sowewimo Street, Asokoro District, Abuja",
+					"phone": "234 9 3140900",
+					"fax": "+234 9 3140901 ",
+					"email": "embavenez-nig@nova.net.ng ",
+					"website": ""
+				},
+				{
+					"location": "lagos",
+					"address": "35B, Adetokunbo Ademola Street, Victoria Island, P.O Box 3727, Lagos ",
+					"phone": "+234 1 2611590",
+					"fax": "+234 1 2617350",
+					"email": "embavenez.nig@net.ng",
+					"website": ""
+				}
+			]
+		},
+		{
+			"country": "Zambia ",
+			"name": "The High Commission Zambia ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 351, Mission Road, Central Area, PMB 5055, Wuse II, Abuja ",
+					"phone": "+234 9 2347060, 4618601",
+					"fax": "+234 9 2348855, 4131225",
+					"email": "info@zambiansabuja.com ",
+					"website": "http://www.zambiansabuja.com"
+				}
+			]
+		},
+		{
+			"country": "Zimbabwe",
+			"name": "High Commission for The Republic of Zimbabwe ",
+			"contact": [
+				{
+					"location": "Abuja",
+					"address": "Plot 2908, Opp. Judges Quarters, Off Aminu Kano Crescent, Wuse II, Abuja",
+					"phone": "+234 9 4611322/9",
+					"fax": "+234 9 4611327 ",
+					"email": "zimabuja@yahoo.co.uk",
+					"website": ""
+				}
+			]
+		}
+	]
+}
